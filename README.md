@@ -9,3 +9,8 @@ http://bucket-entrega-next-samuel.s3-website-us-east-1.amazonaws.com/
 <img width="940" alt="Captura de pantalla 2025-04-17 182050" src="https://github.com/user-attachments/assets/b1268925-e8e7-4587-8e36-12cc76ad7fc9" />
 <img width="931" alt="Captura de pantalla 2025-04-17 182530" src="https://github.com/user-attachments/assets/e6c6c3eb-b7c5-45f3-855e-939fa7655335" />
 
+# Bucket Desplegado
+<img width="860" alt="Captura de pantalla 2025-04-17 182700" src="https://github.com/user-attachments/assets/27a27883-4d06-493a-84cd-83f9d78fddd0" />
+
+
+
